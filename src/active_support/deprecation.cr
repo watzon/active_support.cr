@@ -1,0 +1,3 @@
+module ActiveSupport::Deprectation
+
+end

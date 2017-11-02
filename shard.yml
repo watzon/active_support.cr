@@ -1,0 +1,14 @@
+name: activesupport
+version: 0.1.0
+
+authors:
+  - Chris Watson <chris@watzon.me>
+
+dependencies:
+  i18n:
+    github: watzon/i18n.cr
+    version: ~> 0.1.0
+
+crystal: 0.23.1
+
+license: MIT
