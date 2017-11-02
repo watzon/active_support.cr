@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   active_support:
-    github: watzon/active_support
+    github: watzon/active_support.cr
 ```
 
 ## Usage
