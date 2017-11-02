@@ -26,6 +26,7 @@ I want to port all of the functionality in ActiveSupport that's actually useful 
 - [x] Inflections/Inflector
 - [ ] I18n Patches for [vladfaust/i18n.cr](https://github.com/vladfaust/i18n.cr)
   - [ ] Transliteration
+- [x] StringInquirer
 - [ ] TimeZones
 - [ ] More..?
 
