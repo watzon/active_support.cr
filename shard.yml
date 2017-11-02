@@ -8,6 +8,8 @@ dependencies:
   i18n:
     github: watzon/i18n.cr
     version: ~> 0.1.0
+  notifications:
+    github: crystal-community/crystal-notifications
 
 crystal: 0.23.1
 
